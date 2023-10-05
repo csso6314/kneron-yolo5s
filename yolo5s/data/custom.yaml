@@ -1,0 +1,13 @@
+# train and val data as directory: path/labels/
+path: ../datasets/
+train: images/train2017
+val: images/train2017
+
+# number of classes
+nc: 3
+
+# class names
+names: 
+  0: pet
+  1: cat
+  2: dog
