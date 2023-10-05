@@ -1,5 +1,5 @@
 # train and val data as directory: path/labels/
-path: ../datasets/
+path: ../yolo5s/datasets/
 train: images/train2017
 val: images/train2017
 
